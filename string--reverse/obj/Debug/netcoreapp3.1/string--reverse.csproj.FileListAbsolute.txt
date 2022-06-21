@@ -1,0 +1,14 @@
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\bin\Debug\netcoreapp3.1\string--reverse.exe
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\bin\Debug\netcoreapp3.1\string--reverse.deps.json
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\bin\Debug\netcoreapp3.1\string--reverse.runtimeconfig.json
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\bin\Debug\netcoreapp3.1\string--reverse.runtimeconfig.dev.json
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\bin\Debug\netcoreapp3.1\string--reverse.dll
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\bin\Debug\netcoreapp3.1\string--reverse.pdb
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.csproj.AssemblyReference.cache
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.AssemblyInfoInputs.cache
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.AssemblyInfo.cs
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.csproj.CoreCompileInputs.cache
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.dll
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.pdb
+C:\Users\Rahman\Desktop\Muhammad\C# homework\string--reverse\string--reverse\obj\Debug\netcoreapp3.1\string--reverse.genruntimeconfig.cache
